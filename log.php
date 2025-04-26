@@ -1,6 +1,6 @@
 <?php
 $stored_hash = '57b0f999ce325fd323e85db1a55a0c1f';
-$username = 'anak';
+$username = 'whoami';
 
 function verify_login($input_user, $input_pass, $stored_user, $stored_hash) {
     return ($input_user === $stored_user && password_verify($input_pass, $stored_hash));
