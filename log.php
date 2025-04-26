@@ -1,5 +1,5 @@
 <?php
-$stored_hash = '$2a$12$zy08RyQHO7lOj17cBCEMHeodOV1yxwt3CYAen8GJ7B3y93mpHTWDa';
+$stored_hash = '57b0f999ce325fd323e85db1a55a0c1f';
 $username = 'anak';
 
 function verify_login($input_user, $input_pass, $stored_user, $stored_hash) {
