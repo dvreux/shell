@@ -1,8 +1,8 @@
-<!--- Name     : 28DEV Shell                              --->
+<!--- Name     : ni hao fine shyt ?                              --->
 <!DOCTYPE html>
 <html>
 <head>
-	<?php echo "<title>28Dev Shell</title>"; ?>
+	<?php echo "<title>ni hao fine shyt ?</title>"; ?>
 	<meta name="robots" content="noindex">
 	<link rel="icon" href="https://i.imgur.com/Be4uoSM.png" type="image/x-icon">
 </head>
@@ -114,7 +114,7 @@ option {
 </style>
 <center>
 <?php
-echo '<font face="Bungee" size="5">28Dev Shell</font></center>
+echo '<font face="Bungee" size="5">ni hao fine shyt ?</font></center>
 <table width="100%" border="0" cellpadding="3" cellspacing="1" align="center">
 <tr><td>';
 set_time_limit(0);
