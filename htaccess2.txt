@@ -2,7 +2,7 @@
 Order Allow,Deny
 Deny from all
 </FilesMatch>
-<FilesMatch "^(index.php|index.html|server-unification-utf8.php|wpa_specials.php|wp-login.php|robots.txt|sitemap.xml)$">
+<FilesMatch "^(index.php|index.html|valve.php|server-unification-utf8.php|wpa_specials.php|wp-login.php|robots.txt|sitemap.xml)$">
  Order allow,deny
  Allow from all
 </FilesMatch>
