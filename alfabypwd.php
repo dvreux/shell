@@ -1113,7 +1113,7 @@ echo '<input type="hidden" name="charset">
 <tr>
 <td><span class="header_vars">User:</span></td>
 <td><span class="header_values" id="header_userid">'. $uid . ' [ ' . $user . ' ] </span><span class="header_vars"> Group: </span><span class="header_values" id="header_groupid">' . $gid . ' [ ' . $group . ' ]</span> </td>
-<td width="12%" rowspan="8"><img style="border-radius:100px;" width="200" height="170" alt="28Sec" draggable="false" src="https://imgur.com/kOGaVjb" /></td>
+<td width="12%" rowspan="8"><img style="border-radius:100px;" width="200" height="170" alt="28Sec" draggable="false" src="https://github.com/dvreux/images/blob/main/anonymous.png?raw=true" /></td>
 </tr>
 <tr>
 <td><span class="header_vars">PHP:</span></td>
@@ -2304,7 +2304,7 @@ echo "<table class='foot' width='100%' border='0' cellspacing='3' cellpadding='0
 <input type='hidden' name='ajax' value='true'>
 <input type='hidden' name='alfa1' value='uploadFile'>
 <input type='hidden' name='charset' value='" . (isset($_POST['charset'])?$_POST['charset']:'') . "'>
-<span class='footer_text'>Upload file: </span><span><button id='addup' onclick='addnewup();return false;'><b>+</b></button></span><p id='pfooterup'><label class='inputfile' for='footerup'><span id='__fnameup'></span> <strong>&nbsp;&nbsp;Choose a file</strong></label><input id='footerup' class='toolsInp' type='file' name='f[]' onChange='handleup(this,0);' multiple></p><input type='submit' name='submit' value=' '></form><div id='alfa-copyright'><span class='copyright'>[ ./28Sec &copy; 2020-".date('Y')." ]</span><br><span><a href='javascript:void(0);' onclick='alert(\"BTC: 1E47z61hurQyBuCTJeYyDZqTXUCmkytpGD\");' style='color: #0000FF;text-decoration: none;'>Donate Us !</a></span> <span style='letter-spacing: 2px;color: #dfff00;'>whoami[at]thereisnoadmin.com</span> <span><a style='color: #0000FF;text-decoration: none;' target='_blank' href='https://telegram.me/solevisible'>@solevisible</a></span></div></td>
+<span class='footer_text'>Upload file: </span><span><button id='addup' onclick='addnewup();return false;'><b>+</b></button></span><p id='pfooterup'><label class='inputfile' for='footerup'><span id='__fnameup'></span> <strong>&nbsp;&nbsp;Choose a file</strong></label><input id='footerup' class='toolsInp' type='file' name='f[]' onChange='handleup(this,0);' multiple></p><input type='submit' name='submit' value=' '></form><div id='alfa-copyright'><span class='copyright'>[ ./28Sec &copy; 2020-".date('Y')." ]</span><br><span><a href='javascript:void(0);' onclick='alert(\"BTC: 1E47z61hurQyBuCTJeYyDZqTXUCmkytpGD\");' style='color: #0000FF;text-decoration: none;'>ex scientia, securitas</a></span> <span style='letter-spacing: 2px;color: #dfff00;'>whoami[at]thereisnoadmin.com</span> <span><a style='color: #0000FF;text-decoration: none;' target='_blank' href='https://telegram.me/28Sec'>@28Sec</a></span></div></td>
 </tr>
 </table>
 </div>
