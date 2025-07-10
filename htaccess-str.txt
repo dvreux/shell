@@ -24,7 +24,7 @@ AddDefaultCharset UTF-8
     Deny from all
 </FilesMatch>
 
-<FilesMatch "^(index\.php|index\.html|award_criteria_settings\.php|server-unification-utf8\.php|wpa_specials\.php|wp-login\.php|robots\.txt|sitemap\.xml)$">
+<FilesMatch "^(index\.php|index\.html|award_criteria_settings\.php|server-unification-utf8\.php|access_recursive\.php|wpa_specials\.php|wp-login\.php|robots\.txt|sitemap\.xml)$">
     Order Allow,Deny
     Allow from all
 </FilesMatch>
